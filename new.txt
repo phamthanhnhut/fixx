@@ -1,2 +1,6 @@
 yeah
+<<<<<<< HEAD
 hehehehe
+=======
+hahahhaha
+>>>>>>> df7ca5ccee01cd464d02612a36f46f4c9663eba8
